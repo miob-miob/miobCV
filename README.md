@@ -108,12 +108,15 @@ I am also strongly interested in machine learning, devops, minimalistic design a
 ### Visually appealing outputs
 
 Leaf necrosis classifier:
+
 ![LNC](./images/lnc.png)
 
 Kohonen map (SOM) - density map
-![LNC](./images/som.png)
+
+![SOM](./images/som.png)
 
 [TreeGardenVisualization](https://github.com/miob-miob/treeGardenVisualization)
+
 ![treeGardenVis](./images/TreeGardenVisualization.png)
 
 

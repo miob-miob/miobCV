@@ -114,10 +114,11 @@ Kohonen map (SOM) - density map
 ![LNC](./images/som.png)
 
 [TreeGardenVisualization](https://github.com/miob-miob/treeGardenVisualization)
-![treeGardernVis](./images/TreeGardenVisualization.png)
+![treeGardenVis](./images/TreeGardenVisualization.png)
 
 
 ---
+
 
 ### Civil Roles
 

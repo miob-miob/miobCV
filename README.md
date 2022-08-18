@@ -10,6 +10,8 @@ ___
 
 **Place:** &nbsp; Southern Moravia, Czech Republic
 
+**Git:** &nbsp;https://github.com/miob-miob
+
 
 ---
 
@@ -100,6 +102,30 @@ I am also strongly interested in machine learning, devops, minimalistic design a
 |oAuth,oidc|++|Implemented several times for various applications|
 |Web development in general|+++||
 |Machine learning|+|Mastered some of ML algorithms MLP, SOM, decision trees|
+
+---
+
+### Visually appealing outputs
+
+Leaf necrosis classifier:
+![LNC](./images/lnc.png)
+
+Kohonen map (SOM) - density map
+![LNC](./images/som.png)
+
+[TreeGardenVisualization](https://github.com/miob-miob/treeGardenVisualization)
+![treeGardernVis](./images/TreeGardenVisualization.png)
+
+
+---
+
+### Civil Roles
+
+* triple father
+* musician
+* climber
+
+
 
 
 

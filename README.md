@@ -111,9 +111,13 @@ Leaf necrosis classifier:
 
 ![LNC](./images/lnc.png)
 
+---
+
 Kohonen map (SOM) - density map
 
 ![SOM](./images/som.png)
+
+---
 
 [TreeGardenVisualization](https://github.com/miob-miob/treeGardenVisualization)
 

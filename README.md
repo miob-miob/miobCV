@@ -119,7 +119,7 @@ Kohonen map (SOM) - density map
 
 ---
 
-[TreeGardenVisualization](https://github.com/miob-miob/treeGardenVisualization)
+[treeGarden](https://github.com/miob-miob/treeGarden)
 
 ![treeGardenVis](./images/TreeGardenVisualization.png)
 

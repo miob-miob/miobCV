@@ -109,19 +109,19 @@ I am also strongly interested in machine learning, devops, minimalistic design a
 
 Leaf necrosis classifier:
 
-![LNC](./images/lnc.png)
+![LNC](https://github.com/miob-miob/miobCV/blob/master/images/lnc.png?raw=true)
 
 ---
 
 Kohonen map (SOM) - density map
 
-![SOM](./images/som.png)
+![SOM](https://github.com/miob-miob/miobCV/blob/master/images/som.png?raw=true)
 
 ---
 
 [treeGarden](https://github.com/miob-miob/treeGarden)
 
-![treeGardenVis](./images/TreeGardenVisualization.png)
+![treeGardenVis](https://github.com/miob-miob/miobCV/blob/master/images/TreeGardenVisualization.png?raw=true)
 
 
 ---

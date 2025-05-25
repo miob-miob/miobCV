@@ -80,36 +80,40 @@ I am also strongly interested in machine learning, devops, minimalistic design a
 
 
 
-| Technology                                                        | Level | Note                                                                                                                                    |
-|-------------------------------------------------------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                   |       |                                                                                                                                         |
+| Technology                                                        | Level | Note                                                                                                                                       |
+|-------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                   |       |                                                                                                                                            |
 | **Languages**                                                     |
-| Python                                                            | +++   | Production experience - *some time ago*                                                                                                 |
-| Javascript + Typescript                                           | +++   | Production experience                                                                                                                   |
-| C                                                                 | ++    | Science experience - neural network - in pre tensorflow times, Kohonen maps                                                             |
-| Swift                                                             | ++    | Production experience                                                                                                                   |
-| Golang                                                            | ++    | implemented small ratelimiter GRPCservice for envoy                                                                                     |
-| C++                                                               | +     | Arduino micro controllers                                                                                                               |
-| Ruby                                                              | +     | Hacking some fastlane, Ruby Warrior                                                                                                     |
-| Fortran                                                           | +     | Long time ago... it was self defense                                                                                                    |
-| Java                                                              | +     | Dont ask why...                                                                                                                         |
-| **Frameworks + technologies**                                     |       |                                                                                                                                         |
-| Django                                                            | +++   | Backend of information system for lab - bit outdated                                                                                    |
-| React/redux, React-native, Node js,Nest js, express js+ ecosystem | +++   | Tech stack of previous jobs                                                                                  |
-| Fast API                                                          | ++    | Service for calling llms                                                                                                                |
-| Gitlab                                                            | +++   | CI/CD pipelines for various repos                                                                                                       |
-| Docker/Docker Swarm                                               | +++   | Must have for past jobs                                                                                                                 |
-| Terraform                                                         | +++   | production experiences with GCP, digital ocean                                                                                          |
+| Python                                                            | +++   | Production experience - *some time ago*                                                                                                    |
+| Javascript + Typescript                                           | +++   | Production experience                                                                                                                      |
+| C                                                                 | ++    | Science experience - neural network - in pre tensorflow times, Kohonen maps                                                                |
+| Swift                                                             | ++    | Production experience                                                                                                                      |
+| Golang                                                            | ++    | implemented small ratelimiter GRPCservice for envoy                                                                                        |
+| C++                                                               | +     | Arduino micro controllers                                                                                                                  |
+| Ruby                                                              | +     | Hacking some fastlane, Ruby Warrior                                                                                                        |
+| Fortran                                                           | +     | Long time ago... it was self defense                                                                                                       |
+| Java                                                              | +     | Dont ask why...                                                                                                                            |
+|                                                                   |       |
+| **Frameworks + technologies**                                     |       |                                                                                                                                            |
+| Django                                                            | +++   | Backend of information system for lab - bit outdated                                                                                       |
+| React/redux, React-native, Node js,Nest js, express js+ ecosystem | +++   | Tech stack of previous jobs                                                                                                                |
+| Fast API                                                          | ++    | Service for calling llms                                                                                                                   |
+| Gitlab                                                            | +++   | CI/CD pipelines for various repos                                                                                                          |
+| Docker/Docker Swarm                                               | +++   | Must have for past jobs                                                                                                                    |
+| Terraform                                                         | +++   | production experiences with GCP, digital ocean                                                                                             |
 | Kubernetes                                                        | +++   | Deployed various production services and databases, also all my pet projects running on my own digital ocean cluster managed with terraform |
-| **Databases**                                                     |       |                                                                                                                                         |
-| SQL                                                               | +     | Some production experience with oracleDB, postgres                                                                                      |
-| No SQL                                                            | ++    | Lot of POCs on Mongo DB (love) and couchbase - mongo, redis.                                                                            |
-| Vector DBs                                                        | ++    | Qdrant - for various data sources for RAG                                                                                               |
-| **Other**                                                         |       |                                                                                                                                         |
-| oAuth,oidc                                                        | ++    | Implemented several times for various applications                                                                                      |
-| Solid experience with GCP                                         | ++    |                                                                                                                                         |
-| Web development in general                                        | +++   |                                                                                                                                         |
-| Machine learning                                                  | +     | Mastered some of ML algorithms MLP, SOM, decision trees                                                                                 |
+|                                                                   |       |                                                                                                                                            |
+| **Databases**                                                     |       |                                                                                                                                            |
+| SQL                                                               | +     | Some production experience with oracleDB, postgres                                                                                         |
+| No SQL                                                            | ++    | Lot of POCs on Mongo DB (love) and couchbase - mongo, redis.                                                                               |
+| Vector DBs                                                        | ++    | Qdrant - for various data sources for RAG                                                                                                  |
+|                                                                   |       |                                                                                                                                            |
+| **Other**                                                         |       |                                                                                                                                            |
+| oAuth,oidc                                                        | ++    | Implemented several times for various applications                                                                                         |
+| Solid experience with GCP                                         | ++    |                                                                                                                                |
+| Monitoring and alerting                                           | ++    | Experiences with: Victoria metrics, prometheus-clients, Grafana                                                                            |
+| Web development in general                                        | +++   |                                                                                                                                            |
+| Machine learning                                                  | +     | Mastered some of ML algorithms MLP, SOM, decision trees                                                                                    |
 
 ---
 

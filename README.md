@@ -17,9 +17,9 @@ ___
 
 ### Who I am?
 
-I am enthusiastic software engineer with 9 years of experience designing and 
-implementing web applications, native applications and scientific applications. 
-I would classify myself as full stack developer, more involved in frontend technologies last years.
+I am enthusiastic software engineer with 11 years of experience designing and 
+implementing web applications, native applications and scientific applications in end to end fashion. 
+I am full stack developer, with focus on frontend technologies and infrastructure (as code preferably).
 I am also strongly interested in machine learning, devops, minimalistic design and life sciences (Once a scientist, always a scientist).
 
 ---
@@ -37,8 +37,13 @@ I am also strongly interested in machine learning, devops, minimalistic design a
 ---
 
 ### Job Log
+* *2023 - present* &nbsp;&nbsp;  **Bloomreach - Staff engineer**
+  * Technical design, architecture, infrastructure k8 implementation for various services of RAG system (retrieval-augmented generation).
+  * We designed and implemented llm powered chatbot - sales specialist connected to various data sources.
+  * Tech stack: Qdrant, redis, node.js (typescript), frontends in Preact, React, python(fast api (asyncio)), golang, java (spring boot), kubernetes on GCP, terraform
 
-* *2020 - present* &nbsp;&nbsp;  **Currys (Dixons Carphone) - Tech lead** 
+
+* *2020 - 2023* &nbsp;&nbsp;  **Currys (Dixons Carphone) - Tech lead** 
     * Technical design, architecture, some non-trivial implementations and integrations of mobile application for colleagues in Currys stores.
     * Leadership and development of team of software engineers and QA engineers (up to 8 people) 
     * Tech stack: React, React-Native, Node.js, Nest.js, Postgres, bit of Swift and devops stuff...
@@ -75,35 +80,46 @@ I am also strongly interested in machine learning, devops, minimalistic design a
 
 
 
-|Technology|Level|Note|
-|---|---|---|
-||||
-|**Languages**|
-|Python| +++ |Production experience - *some time ago* |
-|Javascript + Typescript| +++ | Production experience|
-|C|++| Science experience - neural network - in pre tensorflow times, Kohonen maps|
-|Swift|++| Production experience|
-|C++|+|Arduino micro controllers|
-|Ruby|+|Hacking some fastlane, Ruby Warrior |
-|Fortran|+ | Long time ago... do not ask why... |
-||||
-|**Frameworks + technologies**|||
-|Django|+++|Backend of information system for lab - bit outdated|
-|React/redux, React-native, Node js,Nest js, express js+ ecosystem|+++|Tech stack of most recent job - app for colleagues in stores|
-|Gitlab|+++|CI/CD pipelines for various repos|
-|Docker/Docker Swarm|+++| Must have for current job|
-|Terraform|+|Some production experience|
-|||
-|**Databases**|||
-|SQL|+|Some production experience with oracleDB, postgres|
-|No SQL|++|Lot of POCs on Mongo DB (love) and couchbase - but no opportunity on big project yet.|
-||||
-|**Other**|||
-|oAuth,oidc|++|Implemented several times for various applications|
-|Web development in general|+++||
-|Machine learning|+|Mastered some of ML algorithms MLP, SOM, decision trees|
+| Technology                                                        | Level | Note                                                                                                                                    |
+|-------------------------------------------------------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                   |       |                                                                                                                                         |
+| **Languages**                                                     |
+| Python                                                            | +++   | Production experience - *some time ago*                                                                                                 |
+| Javascript + Typescript                                           | +++   | Production experience                                                                                                                   |
+| C                                                                 | ++    | Science experience - neural network - in pre tensorflow times, Kohonen maps                                                             |
+| Swift                                                             | ++    | Production experience                                                                                                                   |
+| Golang                                                            | ++    | implemented small ratelimiter GRPCservice for envoy                                                                                     |
+| C++                                                               | +     | Arduino micro controllers                                                                                                               |
+| Ruby                                                              | +     | Hacking some fastlane, Ruby Warrior                                                                                                     |
+| Fortran                                                           | +     | Long time ago... it was self defense                                                                                                    |
+| Java                                                              | +     | Dont ask why...                                                                                                                         |
+| **Frameworks + technologies**                                     |       |                                                                                                                                         |
+| Django                                                            | +++   | Backend of information system for lab - bit outdated                                                                                    |
+| React/redux, React-native, Node js,Nest js, express js+ ecosystem | +++   | Tech stack of previous jobs                                                                                  |
+| Fast API                                                          | ++    | Service for calling llms                                                                                                                |
+| Gitlab                                                            | +++   | CI/CD pipelines for various repos                                                                                                       |
+| Docker/Docker Swarm                                               | +++   | Must have for past jobs                                                                                                                 |
+| Terraform                                                         | +++   | production experiences with GCP, digital ocean                                                                                          |
+| Kubernetes                                                        | +++   | Deployed various production services and databases, also all my pet projects running on my own digital ocean cluster managed with terraform |
+| **Databases**                                                     |       |                                                                                                                                         |
+| SQL                                                               | +     | Some production experience with oracleDB, postgres                                                                                      |
+| No SQL                                                            | ++    | Lot of POCs on Mongo DB (love) and couchbase - mongo, redis.                                                                            |
+| Vector DBs                                                        | ++    | Qdrant - for various data sources for RAG                                                                                               |
+| **Other**                                                         |       |                                                                                                                                         |
+| oAuth,oidc                                                        | ++    | Implemented several times for various applications                                                                                      |
+| Solid experience with GCP                                         | ++    |                                                                                                                                         |
+| Web development in general                                        | +++   |                                                                                                                                         |
+| Machine learning                                                  | +     | Mastered some of ML algorithms MLP, SOM, decision trees                                                                                 |
 
 ---
+
+### Pets
+
+Tree garden:
+
+https://tree-garden.miob.org/
+
+https://tree-garden.miob.org/titanic-playground/
 
 ### Visually appealing outputs
 
